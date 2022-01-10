@@ -14,4 +14,4 @@ Then repeats the exercise with a custom portfolio.
 
 ## Challenges
 
-Some of the challenges I faced in this homework were: insuring that the dataframes were concatanated correclty with their respective sorts, induring that the equations used to calculate data such as the sharp ratio was correct
+Some of the challenges I faced in this homework were: insuring that the dataframes were concatanated correclty with their respective sorts, insuring that the equations used to calculate data such as the sharp ratio was correct
